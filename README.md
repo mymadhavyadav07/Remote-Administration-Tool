@@ -13,7 +13,7 @@
 ![Telegram Laptop Control Bot](https://github.com/mymadhavyadav07/Remote-Administration-Tool/blob/main/banner.png)
 
 ## 🌐 Overview
-Ever wished you could control your laptop from anywhere using just your Telegram app? Look no further! The Telegram Laptop Control Bot allows you to access and manage various functionalities of your laptop remotely, providing convenience and flexibility like never before. Whether it's capturing webcam snapshots, recording audio, executing shell commands, or even receiving key press logs, this bot has got you covered. Say goodbye to tedious tasks and hello to effortless control with the Telegram Laptop Control Bot!
+Ever wished you could control your laptop from anywhere using just your Telegram app? Look no further! This telegram bot allows you to access and manage various functionalities of your laptop remotely, providing convenience and flexibility like never before. Whether it's capturing webcam snapshots, recording audio, executing shell commands, or even receiving key press logs, this bot has got you covered.
 
 ## 🚀 Getting Started
 
